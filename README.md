@@ -12,7 +12,7 @@ Note that the source code was written and tested on the Ginsburg HPC cluster at 
 
 Also please note that this repository does not include the code for calibrating the AVHRR reflectance datasets against MODIS to generate the LCREF dataset. Questions regarding the LCREF dataset can be directed to Dr. Xu Lian (xl3179@columbia.edu).
 
-The LCREF dataset is available at DOI [doi:10.5281/zenodo.7920380](https://doi.org/10.5281/zenodo.7920380).
-The LCSIF dataset is available at DOI [doi:10.5281/zenodo.7916851](https://doi.org/10.5281/zenodo.7916851) for the AVHRR period, and [doi:10.5281/zenodo.7916879](https://doi.org/10.5281/zenodo.7916879) for the MODIS period.
+The LCREF dataset is available at [doi:10.5281/zenodo.7920380](https://doi.org/10.5281/zenodo.7920380).
+The LCSIF dataset is available at [doi:10.5281/zenodo.7916851](https://doi.org/10.5281/zenodo.7916851) for the AVHRR period, and [doi:10.5281/zenodo.7916879](https://doi.org/10.5281/zenodo.7916879) for the MODIS period.
 
 
